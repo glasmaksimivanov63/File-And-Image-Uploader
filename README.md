@@ -214,3 +214,6 @@ File & Image Uploader is completely free and comes as a full version with all fe
 ---
 
 Experience the ease of file uploading with File & Image Uploader! Download it now and take your file management to the next level.
+
+---
+**Last updated:** 2026-09-15 17:30:02 UTC
